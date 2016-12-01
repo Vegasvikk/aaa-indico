@@ -1,0 +1,17 @@
+{
+  "name": "indico",
+  "devDependencies": {
+    "jshint": "latest",
+    "browserify": "latest",
+    "mocha": "latest"
+  },
+  "scripts": {
+    "lint": "jshint **.js",
+    "test": "mocha test/"
+  },
+  "version": "1.0.0",
+  "description": "portfolio site of VR Comrie",
+  "main": "global.js",
+  "author": "VR Comrie",
+  "license": "ISC"
+}
